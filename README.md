@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="600px" height="337px" src="src/assets/monte-seu-hamburguer.gif" />
+</p>
+
 # MonteSeuHamburguer
 
 ## Project setup
